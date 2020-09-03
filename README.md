@@ -28,14 +28,14 @@ brew install wine
 
 This installs wine on you computer which lets you run windows files. 
 
-3)Save the OSLO2019_EDU_Insaller.exe in Desktop preferably. Open terminal and type:
+3)Save the OSLO2019_EDU_Insaller.exe in Desktop preferably. Open a new terminal and type:
 
 wine /Users/rahilshajahan/Desktop/OSLO2019_EDU_Installer.exe 
 
 This will run the installer and keep clicking 'Next'. Do not change any folder destinations. 
 NOTE: You will have to change 'rahilshajahan' to your username on mac.
 
-4)After finishing installation process, open terminal and type:
+4)After finishing installation process, open a new terminal and type:
 
 wine /Users/rahilshajahan/.wine/drive_c/Program\ Files/Lambda\ Research\ Corporation/OSLO\ 64bit\ EDU/OSLOedu.exe 
 
