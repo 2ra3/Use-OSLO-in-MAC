@@ -2,8 +2,11 @@
 Follow the steps given in the README file to run OSLO on your mac system.
 
 To open the mac-terminal:
+
 1)Click Command+Space
+
 2)Type Terminal
+
 3)Click Enter
 
 1)Go to mac-terminal and type:
