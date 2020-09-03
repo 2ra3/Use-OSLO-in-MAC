@@ -42,6 +42,6 @@ wine /Users/rahilshajahan/.wine/drive_c/Program\ Files/Lambda\ Research\ Corpora
 This will run the OSLOedu.exe program.
 NOTE: You will have to change 'rahilshajahan' to your username on mac.
 
-5)While saving files in OSLO, make sure to give proper destination folder in Desktop preferably.
+5)While saving files in OSLO, make sure to give proper destination folder (in Desktop preferably).
 
 Thank you for reading. I hope this information has helped you.
