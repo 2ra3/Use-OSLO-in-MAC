@@ -30,17 +30,17 @@ This installs wine on you computer which lets you run windows files.
 
 3)Save the OSLO2019_EDU_Insaller.exe in Desktop preferably. Open a new terminal and type:
 
-wine /Users/rahilshajahan/Desktop/OSLO2019_EDU_Installer.exe 
+wine /Users/username/Desktop/OSLO2019_EDU_Installer.exe 
 
 This will run the installer and keep clicking 'Next'. Do not change any folder destinations. 
-NOTE: You will have to change 'rahilshajahan' to your username on mac.
+NOTE: You will have to change 'username' to your username on mac.
 
 4)After finishing installation process, open a new terminal and type:
 
-wine /Users/rahilshajahan/.wine/drive_c/Program\ Files/Lambda\ Research\ Corporation/OSLO\ 64bit\ EDU/OSLOedu.exe 
+wine /Users/username/.wine/drive_c/Program\ Files/Lambda\ Research\ Corporation/OSLO\ 64bit\ EDU/OSLOedu.exe 
 
 This will run the OSLOedu.exe program.
-NOTE: You will have to change 'rahilshajahan' to your username on mac.
+NOTE: You will have to change 'username' to your username on mac.
 
 5)While saving files in OSLO, make sure to give proper destination folder (in Desktop preferably).
 
